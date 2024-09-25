@@ -4,6 +4,9 @@
 
 FreeJob est une plateforme innovante conçue pour connecter les talents avec des opportunités professionnelles variées. Que vous recherchiez un emploi à temps plein, un stage enrichissant ou des missions de freelance, FreeJob est votre guichet unique pour une carrière épanouissante dans divers domaines d'activités.
 
+![Capture d’écran 2024-07-08 102907](https://github.com/user-attachments/assets/8c0fe5b1-75a2-4cb9-a7e2-2b60a74f238b)
+
+
 ## Caractéristiques principales
 
 - **Diversité des offres** : Accédez à une large gamme d'opportunités incluant des emplois, des stages et des missions de freelance.
@@ -12,6 +15,9 @@ FreeJob est une plateforme innovante conçue pour connecter les talents avec des
 - **Facilité d'utilisation** : Interface intuitive pour une recherche et une candidature simplifiées.
 - **Mise en relation directe** : Connectez-vous directement avec les employeurs et les clients.
 
+![Capture d’écran 2024-07-08 103018](https://github.com/user-attachments/assets/f5bd9577-81bf-45cc-9968-4e71c86d872f)
+
+
 ## Pour qui ?
 
 - Demandeurs d'emploi à la recherche d'un poste à temps plein
@@ -19,6 +25,8 @@ FreeJob est une plateforme innovante conçue pour connecter les talents avec des
 - Freelances cherchant des missions à distance
 - Professionnels en reconversion
 - Entreprises à la recherche de talents
+  
+![Capture d’écran 2024-07-08 103059](https://github.com/user-attachments/assets/f7d93723-9cd9-47c8-8294-3f7a337ad5a2)
 
 ## Comment ça marche ?
 
@@ -27,7 +35,8 @@ FreeJob est une plateforme innovante conçue pour connecter les talents avec des
 3. Parcourez les offres correspondant à vos critères
 4. Postulez directement via la plateforme
 5. Gérez vos candidatures et communications depuis votre espace personnel
-
+   
+![Capture d’écran 2024-07-08 103119](https://github.com/user-attachments/assets/632cdb8a-1f40-4f75-b3a4-4ec9459291aa)
 ## Avantages
 
 - **Pour les candidats** : Accès à une large variété d'opportunités, flexibilité du travail à distance, développement de carrière.
